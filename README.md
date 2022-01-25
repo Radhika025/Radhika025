@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Radhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radhika025&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika025)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika025&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=Radhika025&style=flat-square)
