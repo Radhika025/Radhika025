@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ![Radhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radhika025&show_icons=true&theme=dracula)
 
+![](https://komarev.com/ghpvc/?username=Radhika025)
+
+![](https://komarev.com/ghpvc/?username=Radhika025&style=flat-square)
